@@ -1,5 +1,4 @@
 <html>
-<body><?php
-echo "Aupa atleti";
-?></body>
+  <head></head>
+  <body></body>
 </html>
